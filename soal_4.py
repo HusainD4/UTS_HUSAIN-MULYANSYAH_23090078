@@ -25,3 +25,4 @@ def hitung():
     print("Kategori BMI \t\t:", kategori)
     print("=="*22)
 hitung()
+
